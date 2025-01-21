@@ -117,7 +117,7 @@ export const BentoGridItem = ({
                     {item}
                   </span>
                 ))}
-                <span className=" py-4 px-3 rounded-lg text-center bg-[#10132e]" />
+                <span className="py-4 px-3 rounded-lg text-center bg-[#10132e]" />
               </div>
               <div className="flex flex-col gap-3 lg:gap-8">
                 <span className=" py-4 px-3 rounded-lg text-center bg-[#10132e]" />

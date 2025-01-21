@@ -7,7 +7,7 @@ import { CanvasRevealEffect } from "@/components/ui/CanvasRevealEffect";
 const Approach=()=> {
   return (
     <section className="w-full py-20">
-        <h1 className=" heading">
+        <h1 className="heading">
             My <span className="text-purple">approach</span>
         </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4 ">
@@ -99,7 +99,7 @@ const Card = ({
         <h2 className="dark:text-white  opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center text-3xl">
           {title}
         </h2>
-        <h2 className=" text-xs dark:text-white  opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center" style={{color:'#e4ecff'}}>
+        <h2 className="text-xs dark:text-white  opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center" style={{color:'#e4ecff'}}>
           {description}
         </h2>
       </div>
